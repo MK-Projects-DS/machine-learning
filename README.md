@@ -1,7 +1,7 @@
 # machine-learning-projects
 
-least-squares.py: gradient decent least squares algorithm
+least-squares.py: gradient decent least squares algorithm,
 bc.train.0 and bc.test.0: binary classified data
 
-least-squares-regularized.py gradient decent least squares regularized algorithm
+least-squares-regularized.py gradient decent least squares regularized algorithm,
 ion.train.0 and ion.test.0: binary classified data
