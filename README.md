@@ -13,3 +13,6 @@ lstm_timeseries.py: timeseries prediction algorithum
 naive_bayes.py: naive_bayes classifier algorithum
 
 pearson_correlation.py: pearson correlation algorithum
+
+svm.py: support vector machine classifier algorithm
+
