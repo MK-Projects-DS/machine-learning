@@ -8,11 +8,11 @@ ion.train.0 and ion.test.0: binary classified data
 
 log_loss.py: logistic loss classifier algorithm,
 
-lstm_timeseries.py: timeseries prediction algorithum
+lstm_timeseries.py: timeseries prediction algorithm
 
-naive_bayes.py: naive_bayes classifier algorithum
+naive_bayes.py: naive_bayes classifier algorithm
 
-pearson_correlation.py: pearson correlation algorithum
+pearson_correlation.py: pearson correlation algorithm
 
 svm.py: support vector machine classifier algorithm
 
