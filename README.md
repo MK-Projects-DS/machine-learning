@@ -5,3 +5,11 @@ bc.train.0 and bc.test.0: binary classified data
 
 least-squares-regularized.py gradient decent least squares regularized algorithm,
 ion.train.0 and ion.test.0: binary classified data
+
+log_loss.py: logistic loss classifier algorithm,
+
+lstm_timeseries.py: timeseries prediction algorithum
+
+naive_bayes.py: naive_bayes classifier algorithum
+
+pearson_correlation.py: pearson correlation algorithum
