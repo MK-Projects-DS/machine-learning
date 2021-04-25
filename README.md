@@ -11,6 +11,7 @@ log_loss.py: logistic loss classifier algorithm,
 lstm_timeseries.py: timeseries prediction algorithm
 
 naive_bayes.py: naive_bayes classifier algorithm
+naive_bayes.txt: test data labels for naive bayes algorithm
 
 pearson_correlation.py: pearson correlation algorithm
 
